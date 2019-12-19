@@ -1,0 +1,20 @@
+/* Introduction to Cascading Style Sheets */
+
+html, head, title, body, header, nav, aside, section, figure, figcaption, p, ol, ul, li, label, footer, h1, h2, h3, h4 {
+    font: inherit;
+    text-align: inherit;
+    text-decoration: inherit;
+    color: inherit;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    line-height: 1.5;
+}
+
+img {
+    width: auto;
+}
+
